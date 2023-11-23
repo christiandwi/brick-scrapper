@@ -1,0 +1,17 @@
+{
+  "app": {
+    "addr": ":8089"
+  },
+  "db": {
+    "dialect": "postgresql",
+    "datasource": "host=localhost user=postgres password=postgres dbname=brick port=5432 sslmode=disable TimeZone=Asia/Jakarta",
+    "max_idle_conns": 2,
+    "max_open_conns": 16
+  },
+  "redis": {
+    "address": "127.0.0.1:6379"
+  },
+  "asynq": {
+    "concurrency": 10
+  }
+}
