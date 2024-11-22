@@ -7,4 +7,7 @@
 🟡 only 75 products are scrapped -- need to learn about navigate and wait for the response<br>
 🟡 can't scrap the description (others are good) -- need to learn about navigating redirect in chromedp<br>
 <br><br>
+<br>
+test github copilot
+
 ❌ minimum 5 multithread processes
